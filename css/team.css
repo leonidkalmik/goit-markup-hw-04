@@ -44,3 +44,7 @@
 .team-social-link:focus {
   background-color: #404bbf;
 }
+
+.team-social-list {
+  gap: 24px;
+}
