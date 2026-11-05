@@ -47,3 +47,8 @@
 .footer-social-link:focus {
   background-color: #31d0aa;
 }
+
+.footer-social-list {
+  justify-content: flex-start;
+  gap: 16px;
+}
